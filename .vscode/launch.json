@@ -1,0 +1,20 @@
+"java.jdt.ls.java.home": "C:\Users\SAHM157\Desktop\WB_OOP\jdk-17",      
+
+"java.configuration.runtimes": 
+ [{ 
+     "name": "JavaSE-17", 
+     "path": "C:\Users\SAHM157\Desktop\WB_OOP\jdk-17",
+ }],
+
+"launch":
+ {
+     "configurations": 
+     [{
+         "type": "java",
+         "name": "Launch It!",
+         "request": "launch",
+         "mainClass": "${file}",
+         "console": "internalConsole",
+     }],
+     "compounds": []
+ }
