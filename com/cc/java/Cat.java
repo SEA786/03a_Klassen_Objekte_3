@@ -4,14 +4,11 @@ public class Cat {
 
   private String name;
   private String furColor;
-  private int age; 
-
   private int counter;
   
   public Cat(String name, String furColor, int age) {
     this.name = name;
     this.furColor = furColor;
-    this.age = age;
   }
 
   public String getStringAttributes(String op) {

@@ -1,20 +1,20 @@
-"java.jdt.ls.java.home": "C:\\Users\\SAHM157\\Desktop\\WB_OOP\\jdk-17",      
-
-"java.configuration.runtimes": 
- [{ 
-     "name": "JavaSE-17", 
-     "path": "C:\\Users\\SAHM157\\Desktop\\WB_OOP\\jdk-17"
- }],
-
-"launch":
- {
-     "configurations": 
-     [{
-         "type": "java",
-         "name": "Launch It!",
-         "request": "launch",
-         "mainClass": "${file}",
-         "console": "internalConsole"
-     }],
-     "compounds": []
- }
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.cc.java.App",
+            "projectName": "03a_Klassen_Objekte_3-2_dda6433e"
+        },
+        {
+            "type": "java",
+            "name": "Launch it!",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        },
+      
+    ]
+}
